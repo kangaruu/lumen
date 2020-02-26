@@ -1,2 +1,0 @@
-# lumen
-Lumen Website Hosting

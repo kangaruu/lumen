@@ -1,4 +1,4 @@
-var url = 'https://io.adafruit.com/api/groups/Default/receive.json?x-aio-key=d0ad65efddd84f2da7536b1de274f2cd';
+var url = 'https://io.adafruit.com/api/groups/Default/receive.json?x-aio-key=aio_ESWx41xXIBttKpOFD1dIlnUquTlO';
 var NEEDEDVALUE;
 var document;
 
